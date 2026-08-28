@@ -1,0 +1,64 @@
+// ==================================================
+// 用户端主题（只改下面 8 个核心变量就够了）
+// ==================================================
+// 1) 主品牌色：按钮、高亮、激活态
+$client-color-primary: #e874a2 !default;
+// 2) 主品牌浅色：hover/浅背景
+$client-color-primary-light: #f6a6c5 !default;
+// 3) 强调辅助色：渐变第二色（偏奶油橙）
+$client-color-accent: #ffd2b8 !default;
+// 4) 页面主背景色（与首页内容区 $bg 一致）
+$client-color-bg: #f8fafc !default;
+// 5) 卡片背景色
+$client-color-surface: #fffdfd !default;
+// 6) 主文字色（标题）
+$client-color-text-main: #5d3b4a !default;
+// 7) 次文字色（正文/说明）
+$client-color-text-secondary: #8a767b !default;
+// 8) 边框线颜色
+$client-color-border: #f4dfe5 !default;
+
+// ==================================================
+// 以下是兼容旧变量名（组件里已在用），一般不用改
+// ==================================================
+
+// Header（与首页 .client-home 顶部渐变一致）
+$client-header-bg-start: #f0fdfa !default;
+$client-header-bg-end: #f8fafc !default;
+$client-header-shadow: rgba(20, 184, 166, 0.12) !default;
+$client-header-title: $client-color-text-main !default;
+$client-header-menu: #8f6b70 !default;
+$client-header-menu-active: $client-color-primary !default;
+$client-header-menu-hover: $client-color-primary-light !default;
+$client-header-menu-line-start: #ffb7c5 !default;
+$client-header-menu-line-end: $client-color-accent !default;
+
+// Footer（与首页 .client-home 底部 #ffffff 衔接）
+$client-footer-bg-start: #ffffff !default;
+$client-footer-bg-end: #ffffff !default;
+$client-footer-border: #e2e8f0 !default;
+$client-footer-shadow: rgba(20, 184, 166, 0.08) !default;
+$client-footer-title: #7e5d63 !default;
+$client-footer-text: $client-color-text-secondary !default;
+$client-footer-link-hover: #dc7f95 !default;
+$client-footer-bottom-text: #a5969a !default;
+
+// Profile (个人中心)
+$client-profile-card-bg: $client-color-surface !default;
+$client-profile-card-border: #ffe6ef !default;
+$client-profile-card-shadow: rgba(255, 170, 200, 0.12) !default;
+$client-profile-title: $client-color-text-main !default;
+$client-profile-subtitle: #9b7383 !default;
+$client-profile-label: #7f5b69 !default;
+$client-profile-input-border: #f5d7e3 !default;
+$client-profile-input-focus: $client-color-primary-light !default;
+$client-profile-error: #f56c6c !default;
+$client-profile-tab: #9f6f83 !default;
+$client-profile-tab-active: $client-color-primary !default;
+$client-profile-tab-bar: #f38fb5 !default;
+
+// Brand pink button
+$client-pink-btn-start: #f88db4 !default;
+$client-pink-btn-end: #f6a9c6 !default;
+$client-pink-btn-shadow: rgba(248, 141, 180, 0.28) !default;
+$client-pink-btn-hover-shadow: rgba(248, 141, 180, 0.34) !default;
