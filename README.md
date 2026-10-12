@@ -18,7 +18,7 @@
 | 网站访客端 | 访客 | 在线发起咨询、与AI机器人进行WebSocket实时聊天、支持上下文连续对话、查看Markdown消息、点击推荐问题与欢迎语引导 |
 
 
-![功能模块图](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/azhou_promotion/img/module_structure/func_module_714e8705ff584ce39722482d3f34ae5b.png)
+![功能模块图](docs/images/01-func-module.png)
 
 
 ## 二、功能模块介绍
@@ -97,31 +97,31 @@
 
 首页：展示智能客服平台的运营数据概览
 
-![首页：展示智能客服平台的运营数据概览](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/48a33cd1-bfec-4656-89fa-0bc9b0188d8b.png)
+![首页：展示智能客服平台的运营数据概览](docs/images/02-shou-ye.png)
 
 渠道管理页：管理智能客服接入渠道，支持增删改查操作
 
-![渠道管理页：管理智能客服接入渠道，支持增删改查操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7b1d52a3-5b27-4cc4-8cfd-b316220a07cf.png)
+![渠道管理页：管理智能客服接入渠道，支持增删改查操作](docs/images/03-qu-dao-guan-li.png)
 
 机器人管理页：管理机器人信息，支持查询、新建、修改和删除
 
-![机器人管理页：管理机器人信息，支持查询、新建、修改和删除](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/c49ec02c-f42c-4627-8f5b-84e05f6e110a.png)
+![机器人管理页：管理机器人信息，支持查询、新建、修改和删除](docs/images/04-ji-qi-ren-guan-li.png)
 
 套餐管理页：查看并管理智能客服机器人的各类套餐
 
-![套餐管理页：查看并管理智能客服机器人的各类套餐](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/09b2c1c8-a52d-421c-8a16-224a6f16bf9e.png)
+![套餐管理页：查看并管理智能客服机器人的各类套餐](docs/images/05-tao-can-guan-li.png)
 
 企业管理页：展示审核通过的企业列表，支持查询操作
 
-![企业管理页：展示审核通过的企业列表，支持查询操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/3fafa59b-2767-4cab-8114-2bc3e3ca86e2.png)
+![企业管理页：展示审核通过的企业列表，支持查询操作](docs/images/06-qi-ye-guan-li.png)
 
 企业人员管理：查询并管理企业人员的账号信息
 
-![企业人员管理：查询并管理企业人员的账号信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b55db3d3-0597-489f-8fe9-156053eba765.png)
+![企业人员管理：查询并管理企业人员的账号信息](docs/images/07-qi-ye-ren-yuan-guan-li.png)
 
 用户管理页：查看并管理平台管理员的账号信息
 
-![用户管理页：查看并管理平台管理员的账号信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/8f0fda68-208f-4151-8698-1966c91c6e89.png)
+![用户管理页：查看并管理平台管理员的账号信息](docs/images/08-yong-hu-guan-li.png)
 
 
 ###### 企业普通人员
@@ -137,71 +137,71 @@
 
 登录页：填写登录信息，登录企业智能客服机器人平台
 
-![登录页：填写登录信息，登录企业智能客服机器人平台](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/44e61b4d-6a95-44ff-8f65-8229a0be64de.png)
+![登录页：填写登录信息，登录企业智能客服机器人平台](docs/images/09-deng-lu.png)
 
 注册页：填写企业信息，提交企业注册申请
 
-![注册页：填写企业信息，提交企业注册申请](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/88ec16ae-6778-49ae-833a-bb5ceaaefb57.png)
+![注册页：填写企业信息，提交企业注册申请](docs/images/10-zhu-ce.png)
 
 首页：展示AI客服能力，引导企业注册使用平台
 
-![首页：展示AI客服能力，引导企业注册使用平台](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/1a08093c-2257-47c6-8fac-01d6d2f2f91d.png)
+![首页：展示AI客服能力，引导企业注册使用平台](docs/images/11-shou-ye.png)
 
 首页：展示客服平台数据概览与功能快捷入口
 
-![首页：展示客服平台数据概览与功能快捷入口](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/4fac6633-73ec-4b99-8457-05d4780d9521.png)
+![首页：展示客服平台数据概览与功能快捷入口](docs/images/12-shou-ye.png)
 
 人员管理页：查询并管理企业内部的人员账号信息
 
-![人员管理页：查询并管理企业内部的人员账号信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ed60efc3-a50b-4f5f-8c2c-d19d4052a414.png)
+![人员管理页：查询并管理企业内部的人员账号信息](docs/images/13-ren-yuan-guan-li.png)
 
 机器人管理页：查看并管理已创建的企业客服机器人
 
-![机器人管理页：查看并管理已创建的企业客服机器人](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/8f22d631-fb45-4822-8291-cae891b9adc9.png)
+![机器人管理页：查看并管理已创建的企业客服机器人](docs/images/14-ji-qi-ren-guan-li.png)
 
 知识库管理页：管理智能客服知识库的分类与知识内容
 
-![知识库管理页：管理智能客服知识库的分类与知识内容](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ca366ee0-e1ac-4a2e-865d-cbe99e6b5741.png)
+![知识库管理页：管理智能客服知识库的分类与知识内容](docs/images/15-zhi-shi-ku-guan-li.png)
 
 渠道管理页：对智能客服接入渠道进行查询与管理
 
-![渠道管理页：对智能客服接入渠道进行查询与管理](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a05dce24-517d-43a6-85e6-00b567a298f9.png)
+![渠道管理页：对智能客服接入渠道进行查询与管理](docs/images/16-qu-dao-guan-li.png)
 
 客服工作台：处理访客咨询会话，可人工接管回复
 
-![客服工作台：处理访客咨询会话，可人工接管回复](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a37dde18-9200-4754-8564-ce388b606b67.png)
+![客服工作台：处理访客咨询会话，可人工接管回复](docs/images/17-ke-fu-gong-zuo-tai.png)
 
 会话记录管理页：查询查看访客咨询的历史会话记录
 
-![会话记录管理页：查询查看访客咨询的历史会话记录](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/26c292d4-5ae8-48aa-8ffa-6065a239c9d0.png)
+![会话记录管理页：查询查看访客咨询的历史会话记录](docs/images/18-hui-hua-ji-lu-guan-li.png)
 
 数据统计页：统计展示智能客服运营的各项业务数据
 
-![数据统计页：统计展示智能客服运营的各项业务数据](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a77b509b-c800-4fc2-845d-1bbfac69e9c0.png)
+![数据统计页：统计展示智能客服运营的各项业务数据](docs/images/19-shu-ju-tong-ji.png)
 
 数据统计页：展示客服业务数据、热门问题与AI知识库洞察
 
-![数据统计页：展示客服业务数据、热门问题与AI知识库洞察](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7e262274-6ec2-4d17-8062-0e1368adaa05.png)
+![数据统计页：展示客服业务数据、热门问题与AI知识库洞察](docs/images/20-shu-ju-tong-ji.png)
 
 大模型配置页：管理企业大模型配置，支持增删改启用操作
 
-![大模型配置页：管理企业大模型配置，支持增删改启用操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b77e3028-cc8b-48c1-8dba-4a41e4c39436.png)
+![大模型配置页：管理企业大模型配置，支持增删改启用操作](docs/images/21-da-mo-xing-pei-zhi.png)
 
 套餐购买页：展示各档位机器人套餐，供企业选择购买
 
-![套餐购买页：展示各档位机器人套餐，供企业选择购买](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/c246b1b8-5c15-48cf-85de-72fc75666725.png)
+![套餐购买页：展示各档位机器人套餐，供企业选择购买](docs/images/22-tao-can-gou-mai.png)
 
 套餐购买页：选择支付方式，确认购买体验版客服套餐
 
-![套餐购买页：选择支付方式，确认购买体验版客服套餐](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/e06caec9-1dd0-4a94-8762-7f7f453feef7.png)
+![套餐购买页：选择支付方式，确认购买体验版客服套餐](docs/images/23-tao-can-gou-mai.png)
 
 订单管理页：查看企业购买客服套餐的订单信息
 
-![订单管理页：查看企业购买客服套餐的订单信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/899e403f-33ad-4b4b-8177-cfbd5624e846.png)
+![订单管理页：查看企业购买客服套餐的订单信息](docs/images/24-ding-dan-guan-li.png)
 
 企业信息管理页：查看并维护企业的基础信息
 
-![企业信息管理页：查看并维护企业的基础信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/5151e5f7-5725-4998-88c4-523e2fb60181.png)
+![企业信息管理页：查看并维护企业的基础信息](docs/images/25-qi-ye-xin-xi-guan-li.png)
 
 
 ###### 系统后台
@@ -222,31 +222,31 @@
 
 首页：展示智能客服平台的运营数据概览
 
-![首页：展示智能客服平台的运营数据概览](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/48a33cd1-bfec-4656-89fa-0bc9b0188d8b.png)
+![首页：展示智能客服平台的运营数据概览](docs/images/02-shou-ye.png)
 
 渠道管理页：管理智能客服接入渠道，支持增删改查操作
 
-![渠道管理页：管理智能客服接入渠道，支持增删改查操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7b1d52a3-5b27-4cc4-8cfd-b316220a07cf.png)
+![渠道管理页：管理智能客服接入渠道，支持增删改查操作](docs/images/03-qu-dao-guan-li.png)
 
 机器人管理页：管理机器人信息，支持查询、新建、修改和删除
 
-![机器人管理页：管理机器人信息，支持查询、新建、修改和删除](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/c49ec02c-f42c-4627-8f5b-84e05f6e110a.png)
+![机器人管理页：管理机器人信息，支持查询、新建、修改和删除](docs/images/04-ji-qi-ren-guan-li.png)
 
 套餐管理页：查看并管理智能客服机器人的各类套餐
 
-![套餐管理页：查看并管理智能客服机器人的各类套餐](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/09b2c1c8-a52d-421c-8a16-224a6f16bf9e.png)
+![套餐管理页：查看并管理智能客服机器人的各类套餐](docs/images/05-tao-can-guan-li.png)
 
 企业管理页：展示审核通过的企业列表，支持查询操作
 
-![企业管理页：展示审核通过的企业列表，支持查询操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/3fafa59b-2767-4cab-8114-2bc3e3ca86e2.png)
+![企业管理页：展示审核通过的企业列表，支持查询操作](docs/images/06-qi-ye-guan-li.png)
 
 企业人员管理：查询并管理企业人员的账号信息
 
-![企业人员管理：查询并管理企业人员的账号信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b55db3d3-0597-489f-8fe9-156053eba765.png)
+![企业人员管理：查询并管理企业人员的账号信息](docs/images/07-qi-ye-ren-yuan-guan-li.png)
 
 用户管理页：查看并管理平台管理员的账号信息
 
-![用户管理页：查看并管理平台管理员的账号信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/8f0fda68-208f-4151-8698-1966c91c6e89.png)
+![用户管理页：查看并管理平台管理员的账号信息](docs/images/08-yong-hu-guan-li.png)
 
 
 ###### 网站访客端
@@ -267,11 +267,11 @@
 
 在线咨询页：访客向智能客服提问，获取对应问题解答
 
-![在线咨询页：访客向智能客服提问，获取对应问题解答](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/500a401e-12c9-48e3-8641-5767e5111f87.png)
+![在线咨询页：访客向智能客服提问，获取对应问题解答](docs/images/26-zai-xian-zi-xun.png)
 
 在线咨询页：访客和AI问答机器人进行在线咨询对话
 
-![在线咨询页：访客和AI问答机器人进行在线咨询对话](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b356b3c5-416a-41b0-8a92-3e6f633f43b2.png)
+![在线咨询页：访客和AI问答机器人进行在线咨询对话](docs/images/27-zai-xian-zi-xun.png)
 
 
 ## 五、主要业务流程
